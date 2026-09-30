@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated experiment outputs
+submission_*.csv
+SVM_predict.txt
